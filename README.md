@@ -35,7 +35,7 @@ After copying the ssh/https link open your terminal(MacOS) or Gitbash(Windows) a
 Use the following gitHub link [Google Books React Search App Repo](https://github.com/Luis0624/google-books-react-search-app.git) to get to my github page and be able to clone the repo for this project.
 
 Demo image for cloning github repo
-![GitHub cloning ](book-search-app/client/public/ReactAppCloningDemo.jpg)
+![GitHub cloning ](client/public/ReactAppCloningDemo.jpg)
 
 [Github Repo](https://github.com/Luis0624/google-books-react-search-app.git)
 
@@ -44,10 +44,10 @@ Demo image for cloning github repo
 [Deployed Heroku link]()
 
 Sample Images of Deployed App
-![Working Demo Picture ](book-search-app/client/public/workingApp.png)
+![Working Demo Picture ](client/public/workingApp.png)
 
 
-![Working Demo Picture ](book-search-app/client/public/bookResults.png)
+![Working Demo Picture ](client/public/bookResults.png)
 
 ### USAGE
 After copying the ssh/https link open your terminal(MacOS) or Gitbash(Windows) and enter the command git clone "paste the link here"
